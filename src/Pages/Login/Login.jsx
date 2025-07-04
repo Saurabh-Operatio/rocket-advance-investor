@@ -106,17 +106,17 @@ export default function Login() {
             {
               value: 'brokerAdministrator',
               label: 'Broker Administrator',
-              // disabled: true,
+              disabled: true,
             },
             {
               value: 'brocketOfRecord',
               label: 'Broker of Record',
-              // disabled: true,
+              disabled: true,
             },
             {
               value: 'agent',
               label: 'Agent',
-              // disabled: true,
+              disabled: true,
             },
             {
               value: 'investor',
